@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+  
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-left: 35%;
+    margin-top: 10%;
+    
+
+}
+
+input{
+    margin: 10px 0;
+    padding: 10px;
+    
+}
+
+.formTitle{
+    font-weight: bold;
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    cursor: pointer;
+}
+
+a{
+    color: rgb(26, 25, 25);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+p{
+    margin: 10px 0;
+    text-align: center;
+}
+
+.btn-group{
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+.msg{
+    background-color: rgb(255, 166, 166);
+    border-radius: 7%;
+}
+
+.queryForm{
+    
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+h1{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-left: 37%;
+    margin-top: 10%;
+
+}

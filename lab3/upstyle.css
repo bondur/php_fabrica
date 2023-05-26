@@ -1,0 +1,52 @@
+body{
+    color: black;
+    font: 1.1em "Fira Sans", sans-serif;
+    background-color: white;
+}
+#form{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-45%, -50%);
+    background-color: gray;
+    margin-top: 2em;
+    border-radius:15px;
+    border: 1px;
+    box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+    padding: 15px;
+}
+#text{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-45%, -50%);
+}
+input{
+        border-radius:5px;
+        border: 20px;
+        font-size: 1em;
+        box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+        width: 15em;
+    }
+p{
+    text-align: center;
+}
+button{
+    margin: 0 auto;
+    display: block;
+}
+.third {
+    border-color: #3498db;
+    color: black;
+    box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    font-size: 0.9em;
+    border-radius: 10px;
+    }
+    .third:hover {
+    box-shadow: 4px 4px 10px rgba(100,10,10,0.06);
+    }

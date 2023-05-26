@@ -1,0 +1,35 @@
+
+.formTitle{
+  font-size: 150%;
+  text-align: center;
+}
+
+.guruweba_example_form{
+    background-color: rgb(214, 214, 214);
+    width: 400px;
+    height: 100px;
+    margin-left: 37%;
+    margin-top: 10%;
+    
+    
+    border-width: 2px;
+}
+
+.sub{
+    text-align: center;
+}
+
+.aas {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.open-button{
+    display: inline-block;
+}
+
+.btn-primary{
+    
+    margin-left: 37%;
+    margin-top: 10%;
+}
